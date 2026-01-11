@@ -1,7 +1,6 @@
 # hexo-github-calendar
 
 ## Fixes
-分支`Fallensakura715-patch-1`
 
 修复了窗口缩放比例大于 100% 时`canvas`渲染的问题。
 
@@ -14,6 +13,7 @@
 - 更改了contributions和颜色对应关系
 - 月份动态显示
 - 鼠标悬停动态显示
+- 修改移动端响应式布局逻辑
 
 ### 教程：
 链接：https://zfe.space/post/hexo-githubcalendar.html
