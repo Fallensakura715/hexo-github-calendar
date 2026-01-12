@@ -62,7 +62,8 @@ hexo clean & hexo g & hexo s
 
 ### 效果：
 
-<img width="1545" height="567" alt="image" src="https://github.com/user-attachments/assets/5828f2f1-9470-4450-9aa6-940d1810e2eb" />
+<img width="1556" height="566" alt="image" src="https://github.com/user-attachments/assets/e5b6b69f-d370-491f-9293-2a3420476b28" />
+
 
 
 ## 自建API
